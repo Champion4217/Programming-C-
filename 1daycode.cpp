@@ -41,6 +41,8 @@ using namespace std;
     return 0;
 }*/
 
+//Prime no. finding
+
 int main(){
     int n,k=0;
     cin>>n;
